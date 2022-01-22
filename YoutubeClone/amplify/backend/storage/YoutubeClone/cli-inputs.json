@@ -1,0 +1,16 @@
+{
+  "resourceName": "YoutubeClone",
+  "policyUUID": "e70efe0d",
+  "bucketName": "youtubeclone10701ba08d8a453fa39651e776f75203",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
